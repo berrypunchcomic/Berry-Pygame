@@ -22,4 +22,4 @@ while True:
 
     #Drawing logic
     pygame.display.update()
-    clock.tick(60)        
+    clock.tick(60)
